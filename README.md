@@ -30,6 +30,4 @@ I'm a front-end developer and MERN stack enthusiast with hands-on experience in 
 ---
 
 ## 📊 GitHub Stats:
-
-![Sufiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufiyanimran&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyanimran&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyani&layout=compact&theme=github_dark&hide_border=true)
