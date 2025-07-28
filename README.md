@@ -1,6 +1,7 @@
 # Hi 👋, I'm Sufiyan Imran
 
-I'm a front-end developer and MERN stack enthusiast with hands-on experience in crafting responsive, user-friendly websites and applications. I’m passionate about clean code and building real-world projects that solve real problems.
+### **I'm a front-end developer and MERN stack enthusiast with hands-on experience in crafting responsive, user-friendly websites and applications. I’m passionate about clean code and building real-world projects that solve real problems.**
+
 
 - 🌱 I’m currently learning: **Node.js, Express.js, MongoDB**
 - 💼 Check out my portfolio at: [ sufiyanimran-portfolio-web-app.netlify.app](https://sufiyanimran-portfolio-web-app.netlify.app)
