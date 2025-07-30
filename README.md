@@ -14,9 +14,14 @@
 ---
 
 ## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sufiyanimran/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/Sufiyani)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/sufiyanimran/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Sufiyani" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Github.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
 ---
 
 ## 🛠️ Languages and Tools:
