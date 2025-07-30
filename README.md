@@ -10,7 +10,7 @@
   👉 [Snake Game](https://github.com/Sufiyani/Snake-Game)
 - 💬 Ask me about: **HTML, CSS, JavaScript, React.js, Bootstrap, Firebase**
 - 📫 Reach me at: **sufiyanimran55@gmail.com**
-
+  
 ---
 
 ## 🔗 Connect with me:
@@ -22,14 +22,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
+
 ---
 
 ## 🛠️ Languages and Tools:
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,firebase,git,github,vscode" />
 </p>
-
-
 
 ---
 
