@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sufiyan Imran</h1>
 
-#### **I'm a front-end developer and MERN stack enthusiast with hands-on experience in crafting responsive, user-friendly websites and applications. I’m passionate about clean code and building real-world projects that solve real problems.**
+#### *I'm a front-end developer and MERN stack enthusiast with hands-on experience in crafting responsive, user-friendly websites and applications. I’m passionate about clean code and building real-world projects that solve real problems.*
 
 
-- 🌱 I’m currently learning: **Node.js, Express.js, MongoDB**
-- 💼 Check out my portfolio at: [ sufiyanimran-portfolio-web-app.netlify.app](https://sufiyanimran-portfolio.vercel.app/)
-- 💼 Some of my projects:
-- 
-
-  👉 [EduTrack](https://github.com/Sufiyani/EduTrack)
-  
-  👉 [Weather App](https://github.com/Sufiyani/Weather-App)  
-- 💬 Ask me about: **HTML, CSS, JavaScript, React.js, Bootstrap, Firebase**
-- 📫 Reach me at: **sufiyanimran55@gmail.com**
+- 🌱 I’m currently learning: *Node.js, Express.js, MongoDB*
+- 💼 Check out my portfolio at: [ sufiyanimran-portfolio-web-app.netlify.app](https://sufiyanimran-portfolio-web-app.netlify.app)
+- 💼 Some of my projects:  
+  👉 [EduTrack](https://github.com/Sufiyani/EduTrack)  
+  👉 [Weather App](https://github.com/Sufiyani/Weather-App)
+- 💬 Ask me about: *HTML, CSS, JavaScript, React.js, Bootstrap, Firebase*
+- 📫 Reach me at: *sufiyanimran55@gmail.com*
   
 ---
 
@@ -28,7 +25,7 @@
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🛠 Languages and Tools:
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,firebase,git,github,vscode" />
 </p>
