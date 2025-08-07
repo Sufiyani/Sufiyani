@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning: **Node.js, Express.js, MongoDB**
 - 💼 Check out my portfolio at: [ sufiyanimran-portfolio-web-app.netlify.app](https://sufiyanimran-portfolio.vercel.app/)
-- 💼 Some of my projects:  
+- 💼 Some of my projects:
+  👉 [EduTrack](https://github.com/Sufiyani/EduTrack)
   👉 [Weather App](https://github.com/Sufiyani/Weather-App)  
-  👉 [Snake Game](https://github.com/Sufiyani/Snake-Game)
 - 💬 Ask me about: **HTML, CSS, JavaScript, React.js, Bootstrap, Firebase**
 - 📫 Reach me at: **sufiyanimran55@gmail.com**
   
