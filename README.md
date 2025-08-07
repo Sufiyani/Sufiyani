@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning: *Node.js, Express.js, MongoDB*
-- 💼 Check out my portfolio at: [ sufiyanimran-portfolio-web-app.netlify.app](https://sufiyanimran-portfolio-web-app.netlify.app)
+- 💼 Check out my portfolio at: [ sufiyanimran-portfolio.vercel.app](https://sufiyanimran-portfolio.vercel.app/)
 - 💼 Some of my projects:  
   👉 [EduTrack](https://github.com/Sufiyani/EduTrack)  
   👉 [Weather App](https://github.com/Sufiyani/Weather-App)
