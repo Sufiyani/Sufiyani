@@ -7,7 +7,7 @@
 - 💼 Check out my portfolio at: [ sufiyanimran-portfolio.vercel.app](https://sufiyanimran-portfolio.vercel.app/)
 - 💼 Some of my projects:  
   👉 [EduTrack](https://github.com/Sufiyani/EduTrack)  
-  👉 [Weather App](https://github.com/Sufiyani/Weather-App)
+  👉 [Task Manager](https://github.com/Sufiyani/Task-Manager)
 - 💬 Ask me about: *HTML, CSS, JavaScript, React.js, Bootstrap, Firebase*
 - 📫 Reach me at: *sufiyanimran55@gmail.com*
   
