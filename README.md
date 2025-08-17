@@ -8,7 +8,7 @@
 - 💼 Some of my projects:  
   👉 [EduTrack](https://github.com/Sufiyani/EduTrack)  
   👉 [Task Manager](https://github.com/Sufiyani/Task-Manager)
-- 💬 Ask me about: *HTML, CSS, JavaScript, React.js, Bootstrap, Firebase*
+- 💬 Ask me about: *JavaScript, React.js, Firebase*
 - 📫 Reach me at: *sufiyanimran55@gmail.com*
   
 ---
