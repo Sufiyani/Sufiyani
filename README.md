@@ -27,8 +27,16 @@
 
 ## 🛠 Languages and Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,firebase,postman,git,github,vscode" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
 </p>
+
 
 
 ---
