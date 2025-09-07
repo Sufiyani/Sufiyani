@@ -27,8 +27,9 @@
 
 ## 🛠 Languages and Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,firebase,postman,git,github,vscode" />
 </p>
+
 
 ---
 
