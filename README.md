@@ -7,7 +7,7 @@
 - 💼 Check out my portfolio at: [ sufiyanimran-portfolio.vercel.app](https://sufiyanimran-portfolio.vercel.app/)
 - 💼 Some of my projects:  
   👉 [Indoor Booking System](https://github.com/Sufiyani/Indoor-Booking-System)  
-  👉 [Task Manager](https://github.com/Sufiyani/Task-Manager)
+  👉 [EduTrack](https://github.com/Sufiyani/EduTrack)
 - 💬 Ask me about: *JavaScript, React.js, Firebase*
 - 📫 Reach me at: *sufiyanimran55@gmail.com*
   
