@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: *Node.js, Express.js, MongoDB*
 - 💼 Check out my portfolio at: [ sufiyanimran-portfolio.vercel.app](https://sufiyanimran-portfolio.vercel.app/)
 - 💼 Some of my projects:  
-  👉 [EduTrack](https://github.com/Sufiyani/EduTrack)  
+  👉 [Indoor Booking System](https://github.com/Sufiyani/Indoor-Booking-System)  
   👉 [Task Manager](https://github.com/Sufiyani/Task-Manager)
 - 💬 Ask me about: *JavaScript, React.js, Firebase*
 - 📫 Reach me at: *sufiyanimran55@gmail.com*
