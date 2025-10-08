@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning: *Node.js, Express.js, MongoDB*
-- 💼 Check out my portfolio at: [ sufiyanimran-portfolio.vercel.app](https://sufiyanimran-portfolio.vercel.app/)
+- 💼 Check out my portfolio at: [ sufiyanimran-portfolio.vercel.app](https://sufiyan-imran-portfolio.vercel.app/)
 - 💼 Some of my projects:  
   👉 [Indoor Booking System](https://github.com/Sufiyani/Indoor-Booking-System)  
   👉 [EduTrack](https://github.com/Sufiyani/EduTrack)
