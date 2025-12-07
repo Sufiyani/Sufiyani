@@ -42,4 +42,5 @@
 ---
 
 ## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyani&layout=compact&theme=github_dark&hide_border=true)
+![Top Langs](![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sufiyani&layout=compact)
+)
