@@ -28,11 +28,14 @@
 ## 🛠 Languages and Tools:
 <p>
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,react,nextjs" />
+
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
+
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
 </p>
