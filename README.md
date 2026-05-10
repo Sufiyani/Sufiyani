@@ -27,32 +27,11 @@
 ## 🛠 Languages and Tools
 
 <p>
-
-  <!-- Frontend -->
-  <strong>Frontend:</strong><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,react,nextjs" />
-  <br><br>
-
-  <!-- Backend -->
-  <strong>Backend:</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <br><br>
-
-  <!-- Database -->
-  <strong>Database:</strong><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-  <br><br>
-
-  <!-- DevOps -->
-  <strong>DevOps:</strong><br>
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <br><br>
-
-  <!-- Tools -->
-  <strong>Tools:</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
-
+  <!-- Tech Stack -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,firebase,docker,git,github,postman" />
 </p>
+
+
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
