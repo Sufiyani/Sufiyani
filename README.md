@@ -31,14 +31,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,firebase,docker,git,github,postman" />
 </p>
 
-
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
-</p>
-
-
-
 ---
 
 ## 📊 GitHub Stats:
