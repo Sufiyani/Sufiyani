@@ -1,16 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sufiyan Imran</h1>
 
-#### *I'm a front-end developer and MERN stack enthusiast with hands-on experience in crafting responsive, user-friendly websites and applications. I’m passionate about clean code and building real-world projects that solve real problems.*
+---
 
+#### *I'm a MERN Stack Developer with hands-on experience in building full-stack web applications using modern technologies. I focus on scalable backend systems, responsive frontend UI, and real-world problem solving.*
 
-- 🌱 I’m currently learning: *Node.js, Express.js, MongoDB*
-- 💼 Check out my portfolio at: [ sufiyanimran-portfolio.vercel.app](https://sufiyan-imran-portfolio.vercel.app/)
-- 💼 Some of my projects:
-- 
-  👉 [Zakat Donation](https://zakat-donate-frontend.vercel.app/)
-  
-  👉 [Fixkar](https://fix-kar-system-frontend.vercel.app/)  
-- 💬 Ask me about: *JavaScript, React.js, Firebase*
+---
+
+- 🌱 I’m currently learning: *MERN Stack (Advanced Level) with AI Automation*
+
+- 💼 Tech Stack: *MongoDB, Express.js, React.js, Node.js*
+
+- 💼 Check out my portfolio at:  
+  [sufiyanimran-portfolio.vercel.app](https://sufiyan-imran-portfolio.vercel.app/)
+
+- 💼 Some of my projects:  
+  👉 [Zakat Donation](https://zakat-donate-frontend.vercel.app/)  
+  👉 [Fixkar](https://fix-kar-system-frontend.vercel.app/)
+
+- 💬 Ask me about: *MERN Stack, REST APIs, JavaScript, Firebase*
+
 - 📫 Reach me at: *sufiyanimran55@gmail.com*
   
 ---
