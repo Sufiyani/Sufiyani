@@ -17,7 +17,7 @@
   👉 [Zakat Donation](https://zakat-donate-frontend.vercel.app/)  
   👉 [Fixkar](https://fix-kar-system-frontend.vercel.app/)
 
-- 💬 Ask me about: *MERN Stack, REST APIs, JavaScript, Firebase*
+- 💬 Ask me about: *MERN Stack, REST APIs, JavaScript, Firebase, System Design Basics*
 
 - 📫 Reach me at: *sufiyanimran55@gmail.com*
   
