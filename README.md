@@ -36,54 +36,36 @@ const sufiyan = {
 ## 🛠 Tech Stack
 
 <div align="center">
-<table>
-  <tr>
-    <td align="right" valign="middle"><b>Frontend</b></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>Backend</b></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,python&perline=8" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>Databases</b></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=8" alt="Databases" /></td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>Tools</b></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=8" alt="Tools" /></td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>Automation</b></td>
-    <td valign="middle"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></td>
-  </tr>
-</table>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,python,mongodb,postgres,firebase,git,github,docker,postman&perline=9" alt="Tech stack" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/n8n_Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🕌 Zakat Donation</h3>
-      <p>A platform that simplifies Zakat donations and connects donors with those in need.</p>
-      <a href="https://zakat-donate-frontend.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Zakat Donation live demo" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔧 Fixkar</h3>
-      <p>A service-booking system that connects users with local service providers.</p>
-      <a href="https://fix-kar-system-frontend.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Fixkar live demo" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="center">More work on my <a href="https://sufiyan-imran-portfolio.vercel.app/"><b>portfolio →</b></a></p>
+### 🕌 Zakat Donation
+A platform that simplifies Zakat donations and connects donors with those in need.<br/><br/>
+<a href="https://zakat-donate-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Zakat Donation live demo" /></a>
+
+<br/>
+
+### 🔧 Fixkar
+A service-booking system that connects users with local service providers.<br/><br/>
+<a href="https://fix-kar-system-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Fixkar live demo" /></a>
+
+<br/><br/>
+
+More work on my <a href="https://sufiyan-imran-portfolio.vercel.app/"><b>portfolio →</b></a>
+
+</div>
 
 ---
 
@@ -91,7 +73,7 @@ const sufiyan = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sufiyani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most used languages" />
+<img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sufiyani&layout=compact&hide_title=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most used languages" />
 
 </div>
 
