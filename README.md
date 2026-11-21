@@ -1,96 +1,107 @@
-<h1 align="center">Hi 👋, I'm Sufiyan Imran</h1>
-<h3 align="center">Full-Stack MERN Developer | Next.js & TypeScript | AI Automation</h3>
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Sufiyan%20Imran&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Next.js%20%7C%20AI%20Automation&descAlignY=60&descSize=18" alt="Sufiyan Imran banner" />
 
-<p align="center">
-  <a href="https://sufiyan-imran-portfolio.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/sufiyanimran/">LinkedIn</a> •
-  <a href="mailto:sufiyanimran55@gmail.com">Email</a>
-</p>
+<div align="center">
+
+<a href="https://github.com/Sufiyani">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps;React+%7C+Next.js+%7C+Node+%7C+MongoDB;Automating+workflows+with+n8n+and+AI" alt="Typing animation" />
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://sufiyan-imran-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufiyanimran/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sufiyanimran55@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a **MERN Stack Developer** who builds full-stack web applications with modern technologies. I focus on **scalable backend systems**, **responsive and clean frontend interfaces**, and **solving real-world problems** through code and automation.
+I'm a **MERN Stack Developer** who builds full-stack web applications with a focus on **scalable backend systems**, **clean responsive interfaces**, and **real-world problem solving**. I'm now going deeper into advanced MERN and **AI automation**.
 
-- 🌱 Currently learning: **Advanced MERN Stack with AI Automation**
-- 🔭 Currently working on: Production-ready full-stack apps and n8n automation workflows
-- 💬 Ask me about: **MERN Stack, REST APIs, JavaScript/TypeScript, Next.js, Firebase, System Design Basics**
-- 📫 Reach me at: **sufiyanimran55@gmail.com**
+```js
+const sufiyan = {
+  role: "Full-Stack MERN Developer",
+  location: "Karachi, Pakistan",
+  currentlyLearning: ["Advanced MERN", "AI Automation", "System Design"],
+  askMeAbout: ["MERN Stack", "REST APIs", "JavaScript / TypeScript", "Next.js", "Firebase"],
+  openTo: ["Freelance", "Full-time roles", "Collaboration"],
+};
+```
 
 ---
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend" />
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&perline=8" alt="Backend" />
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=8" alt="Databases" />
 
 **Tools & Automation**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=8" alt="Tools" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="48" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Live Demo |
-| ------- | ----------- | --------- |
-| **Zakat Donation** | A platform that simplifies Zakat donations and connects donors with those in need. | [View Live](https://zakat-donate-frontend.vercel.app/) |
-| **Fixkar** | A service-booking system that connects users with local service providers. | [View Live](https://fix-kar-system-frontend.vercel.app/) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕌 Zakat Donation</h3>
+      <p>A platform that simplifies Zakat donations and connects donors with those in need.</p>
+      <a href="https://zakat-donate-frontend.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Zakat Donation live demo" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Fixkar</h3>
+      <p>A service-booking system that connects users with local service providers.</p>
+      <a href="https://fix-kar-system-frontend.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Fixkar live demo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-> More projects are available on my [portfolio](https://sufiyan-imran-portfolio.vercel.app/).
+<p align="center">More work on my <a href="https://sufiyan-imran-portfolio.vercel.app/"><b>portfolio →</b></a></p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sufiyani&show_icons=true&hide_border=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sufiyani&layout=compact&hide_border=true" alt="Top Languages" height="160" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Sufiyani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sufiyani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+
+</div>
 
 ---
 
-## 🔗 Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sufiyanimran/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Sufiyani" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="mailto:sufiyanimran55@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" />
-  </a>
-</p>
+### 🤝 Let's build something great together
 
----
+[![Gmail](https://img.shields.io/badge/sufiyanimran55@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sufiyanimran55@gmail.com)
+[![GitHub](https://img.shields.io/badge/Sufiyani-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sufiyani)
+[![LinkedIn](https://img.shields.io/badge/sufiyanimran-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufiyanimran/)
 
-<p align="center">⭐ Open to collaboration, freelance work, and full-time opportunities. Let's build something great together!</p>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" alt="footer" />
