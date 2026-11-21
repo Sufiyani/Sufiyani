@@ -37,11 +37,23 @@ const sufiyan = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,python,mongodb,postgres,firebase,git,github,docker,postman&perline=9" alt="Tech stack" />
+**Frontend**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend" />
 
-<img src="https://img.shields.io/badge/n8n_Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<br/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,firebase&perline=6" alt="Backend and databases" />
+
+<br/>
+
+**Tools & Automation**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=4" alt="Tools" />
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 
 </div>
 
@@ -51,17 +63,13 @@ const sufiyan = {
 
 <div align="center">
 
-### 🕌 Zakat Donation
-A platform that simplifies Zakat donations and connects donors with those in need.<br/><br/>
+**🕌 Zakat Donation** — A platform that simplifies Zakat donations and connects donors with those in need.
+
 <a href="https://zakat-donate-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Zakat Donation live demo" /></a>
 
-<br/>
+**🔧 Fixkar** — A service-booking system that connects users with local service providers.
 
-### 🔧 Fixkar
-A service-booking system that connects users with local service providers.<br/><br/>
 <a href="https://fix-kar-system-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Fixkar live demo" /></a>
-
-<br/><br/>
 
 More work on my <a href="https://sufiyan-imran-portfolio.vercel.app/"><b>portfolio →</b></a>
 
@@ -69,11 +77,11 @@ More work on my <a href="https://sufiyan-imran-portfolio.vercel.app/"><b>portfol
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Insights
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sufiyani&layout=compact&hide_title=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most used languages" />
+<img width="420" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sufiyani&layout=compact&card_width=420&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most used languages" />
 
 </div>
 
@@ -83,9 +91,9 @@ More work on my <a href="https://sufiyan-imran-portfolio.vercel.app/"><b>portfol
 
 ### 🤝 Let's build something great together
 
-[![Gmail](https://img.shields.io/badge/sufiyanimran55@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sufiyanimran55@gmail.com)
-[![GitHub](https://img.shields.io/badge/Sufiyani-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sufiyani)
-[![LinkedIn](https://img.shields.io/badge/sufiyanimran-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufiyanimran/)
+[![Gmail](https://img.shields.io/badge/sufiyanimran55@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sufiyanimran55@gmail.com)
+[![GitHub](https://img.shields.io/badge/Sufiyani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sufiyani)
+[![LinkedIn](https://img.shields.io/badge/sufiyanimran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufiyanimran/)
 
 </div>
 
