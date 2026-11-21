@@ -26,7 +26,7 @@ const sufiyan = {
   role: "Full-Stack MERN Developer",
   location: "Karachi, Pakistan",
   currentlyLearning: ["Advanced MERN", "AI Automation", "System Design"],
-  askMeAbout: ["MERN Stack", "REST APIs", "JavaScript / TypeScript", "Next.js", "Firebase"],
+  askMeAbout: ["MERN Stack", "JavaScript / TypeScript", "Next.js", "Firebase"],
   openTo: ["Freelance", "Full-time roles", "Collaboration"],
 };
 ```
