@@ -38,16 +38,15 @@ const sufiyan = {
 <div align="center">
 
 <h4 align="center">Frontend</h4>
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" height="44" alt="Frontend" /></p>
 
 <h4 align="center">Backend &amp; Databases</h4>
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,firebase&perline=6" alt="Backend and databases" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,firebase&perline=6" height="44" alt="Backend and databases" /></p>
 
-<h4 align="center">Tools</h4>
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=4" alt="Tools" /></p>
-
-<h4 align="center">Automation</h4>
-<p align="center"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></p>
+<h4 align="center">Tools &amp; Automation</h4>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=4" height="44" alt="Tools" />
+<br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></p>
 
 </div>
 
@@ -60,12 +59,12 @@ const sufiyan = {
     <td width="50%" valign="top">
       <h3>🕌 Zakat Donation</h3>
       <p>A platform that simplifies Zakat donations and connects donors with those in need.</p>
-      <p><a href="https://zakat-donate-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Zakat Donation live demo" /></a></p>
+      <p><a href="https://zakatcare-three.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Zakat Donation live demo" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🔧 Fixkar</h3>
       <p>A service-booking system that connects users with local service providers.</p>
-      <p><a href="https://fix-kar-system-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Fixkar live demo" /></a></p>
+      <p><a href="https://fixkarsystem.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Fixkar live demo" /></a></p>
     </td>
   </tr>
 </table>
