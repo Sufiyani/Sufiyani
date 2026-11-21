@@ -55,19 +55,22 @@ const sufiyan = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<h4 align="center">🕌 Zakat Donation</h4>
-<p align="center">A platform that simplifies Zakat donations and connects donors with those in need.</p>
-<p align="center"><a href="https://zakat-donate-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Zakat Donation live demo" /></a></p>
-
-<h4 align="center">🔧 Fixkar</h4>
-<p align="center">A service-booking system that connects users with local service providers.</p>
-<p align="center"><a href="https://fix-kar-system-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Fixkar live demo" /></a></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕌 Zakat Donation</h3>
+      <p>A platform that simplifies Zakat donations and connects donors with those in need.</p>
+      <p><a href="https://zakat-donate-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Zakat Donation live demo" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Fixkar</h3>
+      <p>A service-booking system that connects users with local service providers.</p>
+      <p><a href="https://fix-kar-system-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Fixkar live demo" /></a></p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">More work on my <a href="https://sufiyan-imran-portfolio.vercel.app/"><b>portfolio →</b></a></p>
-
-</div>
 
 ---
 
