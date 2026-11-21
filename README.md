@@ -44,9 +44,8 @@ const sufiyan = {
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,firebase&perline=6" height="44" alt="Backend and databases" /></p>
 
 <h4 align="center">Tools &amp; Automation</h4>
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=4" height="44" alt="Tools" />
-<br/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=4" height="44" alt="Tools" /></p>
+<p align="center"><img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Automation" /></p>
 
 </div>
 
