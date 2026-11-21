@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/Sufiyani">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps;React+%7C+Next.js+%7C+Node+%7C+MongoDB;Automating+workflows+with+n8n+and+AI" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps;Turning+ideas+into+production-ready+products;Automating+workflows+with+n8n+and+AI" alt="Typing animation" />
 </a>
 
 <br/>
@@ -36,24 +36,28 @@ const sufiyan = {
 ## 🛠 Tech Stack
 
 <div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python&perline=8" alt="Backend" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=8" alt="Databases" />
-
-**Tools & Automation**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=8" alt="Tools" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="48" />
-
+<table>
+  <tr>
+    <td align="right" valign="middle"><b>Frontend</b></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>Backend</b></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,python&perline=8" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>Databases</b></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=8" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>Tools</b></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=8" alt="Tools" /></td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>Automation</b></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -83,12 +87,11 @@ const sufiyan = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Sufiyani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sufiyani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sufiyani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most used languages" />
 
 </div>
 
